@@ -1,1 +1,3 @@
 # PSPKILab
+Some Powershell Scripts that can help in building a PKI-Lab.
+ATTENTION: THIS IS NOT MEANT FOR PRODUCTION USE BUT FOR LEARNING PURPOSES
